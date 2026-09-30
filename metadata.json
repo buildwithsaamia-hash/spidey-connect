@@ -1,0 +1,6 @@
+{
+  "name": "Spidey Connect",
+  "description": "Professional client web portal for Spidey Connect by Apex Webworks, featuring secure signup, hero section, and authenticated admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
