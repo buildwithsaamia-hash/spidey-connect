@@ -67,3 +67,4 @@ CREATE POLICY "Allow public read"
    - `VITE_SUPABASE_ANON_KEY`
    - `VITE_ADMIN_PASSKEY`
 4. Click **Deploy**.
+Deploy trigger 1
